@@ -56,6 +56,12 @@ header{
     color: white;
     text-align: center;
 }
+.column2{
+    width: 50%;
+}
+.col{
+    color: white;
+}
 
 @media screen and (max-width: 600px){
 .column3{
