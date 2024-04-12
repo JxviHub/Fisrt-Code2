@@ -26,23 +26,23 @@ header{
     flex-direction: row;
     flex-wrap: wrap;
     }
-.column-100{
+.column6{
     width: 100%;
     text-align: center;
     font-size: 25px;
 }
-.column-33{
+.column3{
     width: 33.33%;
     text-align: center;
     float: left;
 }
-.column-100-1{
+.column7{
     width: 100%;
     text-align: center;
     background-color: rgb(83, 177, 217);
     color: white;
 }
-.column-50{
+.column4{
     width: 50%;
     padding: 0px;
 }
@@ -50,7 +50,7 @@ header{
     padding-left: 110px;
 }
 
-.column-100-2{
+.column8{
     width: 100%;
     background-color: black;
     color: white;
@@ -58,15 +58,15 @@ header{
 }
 
 @media screen and (max-width: 600px){
-.column-33{
+.column3{
     width: 50%;
     float: left;
 }
-.column-50{
+.column4{
     width: 100%;
     padding: 10px;
 }
-.column-50-1{
+.column{
     width: 100%;
 }
 .pad{
